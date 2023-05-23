@@ -13,7 +13,7 @@ SimpleBlogApp uses the following technologies:
 - View blog details
 
 ## Teacher
-- [Amadou Niay]
+- [Amadou NDIAYE]
 ## Membres du groupe
 Bousso DIOP
 Khadydiatou SAMB
